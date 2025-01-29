@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    background-color: darkblue;
+    padding: 10px;
+    border-radius: 5px;
+}
